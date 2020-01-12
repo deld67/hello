@@ -2,3 +2,4 @@
 Еще одна строка
 
 Hi, Git!
+Hello, Git rebased!
